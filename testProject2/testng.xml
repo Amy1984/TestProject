@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Suite">
+  <test thread-count="5" parallel="classes" name="Test">
+    <classes>
+      <class name="testProjectPackage.TestNG2"/>
+      <class name="testProjectPackage.TestNG3"/>
+      <class name="testProjectPackage.TestNG1"/>
+      <class name="testProjectPackage.TestNG6"/>
+      <class name="testProjectPackage.TestNG7"/>
+      <class name="testProjectPackage.TestNG4"/>
+      <class name="testProjectPackage.TestNG5"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

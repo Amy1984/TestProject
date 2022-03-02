@@ -1,0 +1,12 @@
+2022-02-11 23:42:57,248 [main] INFO Log4j - Chrome Browser Instance Opened
+2022-02-11 23:42:57,384 [main] INFO Log4j - Window Maximized
+2022-02-11 23:42:57,402 [main] INFO Log4j - Implicit Wait Given
+2022-02-11 23:42:58,947 [main] INFO Log4j - Application Launched
+2022-02-11 23:57:07,235 [main] INFO Log4j - Chrome Browser Instance Opened
+2022-02-11 23:57:07,368 [main] INFO Log4j - Window Maximized
+2022-02-11 23:57:07,384 [main] INFO Log4j - Implicit Wait Given
+2022-02-11 23:57:08,828 [main] INFO Log4j - Application Launched
+2022-02-12 00:00:09,306 [main] INFO Log4j - Chrome Browser Instance Opened
+2022-02-12 00:00:09,440 [main] INFO Log4j - Window Maximized
+2022-02-12 00:00:09,456 [main] INFO Log4j - Implicit Wait Given
+2022-02-12 00:00:10,854 [main] INFO Log4j - Application Launched
