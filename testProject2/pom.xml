@@ -11,11 +11,6 @@
     <scope>provided</scope>
 </dependency>
 <dependency>
-    <groupId>org.apache.maven.plugins</groupId>
-    <artifactId>maven-compiler-plugin</artifactId>
-    <version>3.10.0</version>
-</dependency>
-<dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>6.14.3</version>
@@ -48,12 +43,6 @@
     <version>3.141.59</version>
 </dependency>
 <dependency>
-    <groupId>org.apache.maven.plugin-tools</groupId>
-    <artifactId>maven-plugin-annotations</artifactId>
-    <version>3.4</version>
-    <scope>provided</scope>
-</dependency>
-<dependency>
     <groupId>com.thoughtworks.xstream</groupId>
     <artifactId>xstream</artifactId>
     <version>1.4.10-java7</version>
@@ -84,6 +73,11 @@
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-surefire-plugin</artifactId>
     <version>2.19.1</version>
+</plugin>
+<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-compiler-plugin</artifactId>
+    <version>3.10.0</version>
 </plugin>
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
